@@ -1,21 +1,19 @@
 # Pyinotify
+This is a fork of:
 
-This is a fork of: [seb-m/pyinotify](https://github.com/seb-m/pyinotify).
-
-I'm maintaining this fork, feel free to report any issues if something isn't working.
 
 | License           | MIT                                                                                                                       |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Project URL       | [kacperpaczos/pyinotify: Monitoring filesystems events with inotify on Linux.](https://github.com/kacperpaczos/pyinotify) |
 | Project Wiki      | [kacperpaczos/pyinotify Wiki](https://github.com/kacperpaczos/pyinotify/wiki)                                             |
-| API Documentation | None                                                                                                                      |
+| API Documentation | None  
 
 ## Dependencies
 
 * Linux ≥ 2.6.13
 * Python ≥ 2.4 (including Python 3.x)
 
-## Installation
+## Install
 
 ### Get the current stable version from PyPI and install it with `pip`
 

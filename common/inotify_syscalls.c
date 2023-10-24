@@ -1,6 +1,7 @@
 /*
   inotify_syscalls.c - native binding to inotify's syscalls
   Copyright (c) 2005-2011 Sebastien Martini <seb@dbzteam.org>
+  Copyright (c) 2023 Kacper Paczos <kacper-paczos@linux.pl>
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
